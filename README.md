@@ -18,10 +18,13 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+
 ## PROGRAM:
+```
 
 # Developed by:Mohamed Faizal M
 # Register no: 24000006
+
 a=int(input())
 b=int(input())
 c=int()
@@ -29,7 +32,7 @@ c=a
 a=b
 b=c
 print("Swapped values are:",a,b)
-
+```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/34867db9-4a9f-4816-a61e-c49809361ca9)
 
